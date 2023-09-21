@@ -6,6 +6,16 @@ I will use a version control strategy for tis project in order to efficiently ma
 Master: The stable version of the project will always be found in the master branch. It displays the current level of production readiness. Develop: The branch that will be used for continuous development will be develop branch, it will act as the integration branch. Before being merged into the master branch, it serves as the integration point for new features, bug fixes, and other improvements. 
 Feature: Specific features or tasks will have their own feature branches. The develop branch gives rise to multiple feature branches, each of which focuses on a different feature. The feature will be finished and then merged back into the develop branch.
 
+## Architectural pattern: MVC (Model View Controller)  
+Tier 1: Beginner
+Repository Classes
+
+Tier 2: Advanced 
+Repository Classes and Repository Interfaces
+
+Tier 3: Expert 
+Repository Classes Repository Interfaces and Separate Projects
+
 The following information will allow you to use the EcoPower API AND its related report:
 
 ## Accessing the Application
@@ -73,6 +83,26 @@ Security Considerations
 Ensure that you do not share your login credentials with others.
 Avoid storing sensitive information in your browser's cache.
 Always log out of your account when you have finished using the application.
+
+Progress: 
+2023-09-15:
+✅Inital Research
+✅Implemented Tier 1
+✅Documented Code
+2023-09-20:
+✅Implemented Tier 1
+❎Created Generic Interface
+❎Created Specialized Interfaces
+❎Created Generic Class (Generic Repository)
+❎Created Specialized Classes (Orders ,Customer ,Products Repository)
+2023-09-21:
+✅Inital Research
+✅Implemented Tier 1
+✅Created Generic Interface
+✅Created Specialized Interfaces
+✅Created Generic Class (Generic Repository)
+✅Created Specialized Classes (Orders ,Customer ,Products  Repository)
+
 
 # Reference List
 See reference list document with all the requested references.
