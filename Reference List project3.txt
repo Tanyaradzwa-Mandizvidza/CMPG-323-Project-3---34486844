@@ -1,0 +1,49 @@
+1. wadepickett (2023). ASP.NET documentation. [online] Microsoft.com. Available at: https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0 [Accessed 16 Sep. 2023].
+2. BillWagner (2023). C# reference - C#. [online] Microsoft.com. Available at: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/ [Accessed 16 Sep. 2023].
+3. ajcvickers (2021). Overview of Entity Framework Core - EF Core. [online] Microsoft.com. Available at: https://learn.microsoft.com/en-us/ef/core/ [Accessed 16 Sep. 2023].
+4. Maruthi Thenneru (2023). Design Patterns in C#. [online] C-sharpcorner.com. Available at: https://www.c-sharpcorner.com/article/design-patterns-in-c-sharp/ [Accessed 16 Sep. 2023].
+5. C-sharpcorner.com. (2023). Software Architecture/Engineering. [online] Available at: https://www.c-sharpcorner.com/technologies/architecture [Accessed 16 Sep. 2023].
+6. katiesavage (2022). Build web apps with ASP.NET Core for beginners - Training. [online] Microsoft.com. Available at: https://learn.microsoft.com/en-us/training/paths/aspnet-core-web-app/ [Accessed 16 Sep. 2023].
+7. Rick-Anderson (2023). ASP.NET MVC Overview. [online] Microsoft.com. Available at: https://learn.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/overview/asp-net-mvc-overview [Accessed 16 Sep. 2023].
+8. CamSoper (2023). Secure a .NET web app with the ASP.NET Core Identity framework - Training. [online] Microsoft.com. Available at: https://learn.microsoft.com/en-us/training/modules/secure-aspnet-core-identity/ [Accessed 16 Sep. 2023]. 
+9. CMPG323 - IT Developments (2023). 13 September Application of Design Patterns to ASP.NET Core 3.1 MVC Web App. YouTube. Available at: https://www.youtube.com/watch?v=VYvgmMkGUfc&t=689s [Accessed 16 Sep. 2023].
+10.CMPG323 - IT Developments (2023). 5 September Patterns background +Web app demo. YouTube. Available at: https://www.youtube.com/watch?v=E8QQpncP9ts [Accessed 16 Sep. 2023].
+11.CMPG323 - IT Developments (2023). 6 September CMPG323 weekly virtual class Patterns demo. YouTube. Available at: https://www.youtube.com/watch?v=_5iD4efyeE8&t=1196s [Accessed 16 Sep. 2023].
+12.CMPG323 - IT Developments (2023). 31 August CMPG323 weekly virtual class Patterns introduction. YouTube. Available at: https://www.youtube.com/watch?v=-Xn7i_BcKJg [Accessed 16 Sep. 2023].
+13.Brewster, C. (2021). Web App Development in 2023: Everything You Need to Know - Trio. [online] Trio.dev. Available at: https://www.trio.dev/front-end/resources/web-app-development [Accessed 16 Sep. 2023].
+14.wwlpublish (2023). Microsoft Azure Fundamentals: Describe cloud concepts - Training. [online] Microsoft.com. Available at: https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/ [Accessed 16 Sep. 2023].
+15.Rick-Anderson (2023). Dependency injection in ASP.NET Core. [online] Microsoft.com. Available at: https://learn.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-7.0 [Accessed 16 Sep. 2023].
+16.ardalis (2022). Overview of ASP.NET Core MVC. [online] Microsoft.com. Available at: https://learn.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-7.0 [Accessed 16 Sep. 2023].
+17.mjrousos (2022). Overview of ASP.NET Core Authentication. [online] Microsoft.com. Available at: https://learn.microsoft.com/en-us/aspnet/core/security/authentication/?view=aspnetcore-7.0 [Accessed 16 Sep. 2023].
+18.GitHub. (2023). dotnet/AspNetCore.Docs: Documentation for ASP.NET Core. [online] Available at: https://github.com/dotnet/AspNetCore.Docs [Accessed 16 Sep. 2023].
+19.alexwolfmsft (2023). Azure for .NET developers. [online] Microsoft.com. Available at: https://learn.microsoft.com/en-us/dotnet/azure/ [Accessed 16 Sep. 2023].
+20.GitHub Docs. (2023). GitHub Actions documentation - GitHub Docs. [online] Available at: https://docs.github.com/en/actions [Accessed 16 Sep. 2023].
+21.katiesavage (2022). Build web apps with ASP.NET Core for beginners - Training. [online] Microsoft.com. Available at: https://learn.microsoft.com/en-us/training/paths/aspnet-core-web-app/ [Accessed 16 Sep. 2023].
+22.Nwu.ac.za. (2023). eFundi. [online] Available at: https://efundi.nwu.ac.za/access/content/group/7b044a4a-843d-41da-8276-594123273082/Slides/07%20CMPG323%205%20Sept%20P3%20concepts.pdf [Accessed 16 Sep. 2023].
+23.AndriySvyryd (2022). Data Seeding - EF Core. [online] Microsoft.com. Available at: https://learn.microsoft.com/en-us/ef/core/modeling/data-seeding [Accessed 16 Sep. 2023].
+24.Openai.com. (2023). ChatGPT. [online] Available at: https://chat.openai.com/?model=text-davinci-002-render-sha [Accessed 16 Sep. 2023].
+25.Alison.com. (2023). Alison. [online] Available at: https://alison.com/?utm_source=bing&utm_medium=cpc&utm_campaign=424114299&utm_content=1364495260459679&utm_term=kwd-85281753061248:loc-168&msclkid=61bf43b4e4a614edd2b726b13b29d9ef [Accessed 16 Sep. 2023].
+26.AR (2008). What is dependency injection? [online] Stack Overflow. Available at: https://stackoverflow.com/questions/130794/what-is-dependency-injection [Accessed 16 Sep. 2023].
+
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
